@@ -1,3 +1,3 @@
 ### Мой стек технологий
 
-![image](https://github.com/Marina113/Marina113/assets/117686062/1d66b357-f15a-48b8-8955-378dd707bb8f)
+<img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue"/> 
