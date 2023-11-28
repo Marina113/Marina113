@@ -1,6 +1,33 @@
 # Всем привет! Меня зовут Марина 👋
-## И я frontend разработчик!
 
-### Мой стек технологий
+---
+## Обо мне:
+Я начинающий веб разработчик. Мой путь начался с обучения в Яндекс.Практикум с ноября 2022 по сентябрь 2023.
 
-<img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue"/> <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow"/> <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js&logoColor=339933"/> <img src="https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=Webpack&logoColor=8DD6F9"/> <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=F05032"/> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/BEM-black?style=for-the-badge&logo=BEM&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb&logoColor=#47A248"/> 
+- :muscle: Завершила курсы по веб-разработке Яндекс Практикум!
+- :fire: Хочу развиваться в Веб-разработке и создавать удобный функционал для каждого пользователя
+- :basecamp: Люблю и стремлюсь к красоте во всем: и в коде, и в самом продукте
+
+---
+  ### 🤝 Социальные сети:
+  <a href="https://vk.com/id27505685" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
+    
+---
+
+### Мой стек технологий:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
+</div>
+
